@@ -16,4 +16,4 @@ The library itself stands on the shoulders of many Open Source giants and uses b
 
 ### What's in the box?
 
-Please have a look at the [documentation](http://www.fluxera.com).
+Please have a look at the [documentation](https://github.com/fluxera/.github/wiki) to learn everything about the library.
