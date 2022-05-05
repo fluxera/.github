@@ -6,15 +6,19 @@ Being a small business this is kind of a large endeavour. But we are nearly done
 
 ### Fluxera Foundation Library
 
+We mainly focus on developing applications using the .NET Framework and C#. Our portfolio includes but is not limited to ASP.NET (APIs, MVC, Razor Pages, Blazor), Xamarin Forms, WPF and other applications. The **Foundation Library** tries to provide a uniform base for any kind of application to develop. It consists of three areas:
 
+1. Tools and utilities.
+2. Domain-Driven Design, Integration and Infrastructure
+3. Modular application infrastructure
 
-<!--
+The library itself stands on the shoulders of many Open Source giants and uses best-practices and well known projects to achieve its goals.
 
-**Here are some ideas to get you started:**
+### What's in the box?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+#### Tools and utilities.
+
+#### Domain-Driven Design, Integration and Infrastructure
+
+#### Modular application infrastructure
+
