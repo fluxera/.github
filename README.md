@@ -1,3 +1,3 @@
 # .github
 
-Please read the [documentation](http://www.fluxera.com).
+Please read the [documentation](https://github.com/fluxera/.github/wiki).
