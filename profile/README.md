@@ -16,9 +16,4 @@ The library itself stands on the shoulders of many Open Source giants and uses b
 
 ### What's in the box?
 
-#### Tools and utilities.
-
-#### Domain-Driven Design, Integration and Infrastructure
-
-#### Modular application infrastructure
-
+Please have a look at the [documentation](http://www.fluxera.com).
